@@ -1,5 +1,6 @@
 # Installing and Running this project at your local device.
 First run "git clone https://github.com/zaidKamboo/Grupverse1.git" in your git bash in the folder you want to create this project. Then run "cd /Grupverse1" and then run "code ." else open the Grupverse1 folder in VS Code. Make sure you have "node js" and "npm" installed in your machine. Then run "npm install" on the terminal of VS Code.This will install all the react dependencies of this project in your local Machine.
+
 ## BACKEND ENVIRONMENT SETTING
 Here in this application I am using the Mongo Db Compass so added its connection string along with the database name "grupverse" in the "Backend/index.js" => "mongoURI variable".
 And for setting the backend simply run "cd Backend" and the "code ." or simply open a terminal in the "Backend" folder and run "npm install" to install the express js backend dependencies.
