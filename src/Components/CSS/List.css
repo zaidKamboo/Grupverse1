@@ -17,3 +17,9 @@
     height: 30px;
     width: 30px;
 }
+.images{
+    justify-content: space-between;
+}
+div.col,div.col-6{
+    position:sticky;
+}
