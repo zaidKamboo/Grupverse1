@@ -1,0 +1,70 @@
+.scimg {
+    height: 20px;
+    height: 20px;
+}
+
+.sb {
+    justify-content: center;
+}
+
+.log {
+    height: 50px;
+    height: 50px;
+    margin: 2px;
+    /* border: 2px solid pink; */
+    border-radius: 50%;
+}
+
+.topTeams {
+    justify-content: space-between;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.Name {
+    /* margin-top: 9px; */
+    /* background-color: red; */
+    align-items: center;
+}
+
+
+
+.topTeam {
+    padding: 0;
+    /* position: relative; */
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* border: 2px solid brown; */
+}
+
+.btn {
+    background-color: #fd088b;
+    border: 1px solid gray;
+    color: white;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+
+}
+
+.but {
+    text-decoration: none;
+    padding: 2px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 17px;
+
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+    /* justify-content: space-between; */
+}

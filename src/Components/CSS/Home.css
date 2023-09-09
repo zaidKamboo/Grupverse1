@@ -1,0 +1,59 @@
+.parentContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* border: 2px solid gold; */
+}
+
+.pf1 {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.ttimg {
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    border: 2px solid gray;
+    margin-top: 20px;
+    border-radius: 12px;
+}
+
+
+.container {
+    margin-left: 0;
+    margin-right: 0;
+
+}
+
+.center {
+    height: 100%;
+    width: 60%;
+    ;
+}
+
+.left {
+    height: 100%;
+    width: 19%;
+}
+
+.right {
+    height: 100%;
+    width: 19%;
+}
+
+.row {
+    /* border: 1px solid red; */
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.img {
+    height: 40px;
+    width: 40px;
+}
