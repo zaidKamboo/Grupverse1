@@ -14,17 +14,19 @@
     /* border: 2px solid pink; */
     border-radius: 50%;
 }
-
 .topTeams {
     justify-content: space-between;
     text-decoration: none;
     list-style-type: none;
+    /* border: 2px solid red; */
 
 }
 
 .Name {
     /* margin-top: 9px; */
     /* background-color: red; */
+    width: 100%;
+    text-align: center;
     align-items: center;
 }
 
@@ -39,16 +41,22 @@
     margin-top: 10px;
     margin-bottom: 10px;
     /* border: 2px solid brown; */
+    width: 100%;
 }
 
-.btn {
+.bton {
     background-color: #fd088b;
     border: 1px solid gray;
     color: white;
     height: 40px;
     width: 80px;
-    text-align: center;
+    justify-content: center;
+    float: right;
+    border-radius: 8px;
 
+}
+.bton:hover{
+    background-color: rgb(21,32,43);
 }
 
 .but {
@@ -57,14 +65,14 @@
     width: 100%;
     display: inline-block;
     text-align: center;
-    margin-top: 17px;
-
+    /* border: 2px solid blue; */
 }
 
 .top {
     display: flex;
     flex-direction: row;
-
+    /* border: 2px solid rebeccapurple; */
+    width: 100%;
     justify-content: center;
     /* justify-content: space-between; */
 }
